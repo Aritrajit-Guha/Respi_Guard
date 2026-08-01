@@ -1,11 +1,26 @@
-# ⛄RespiGuard: AI-Powered Respiratory Health Assistant
+<div align="center">
 
-![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB) ![Flask](https://img.shields.io/badge/Backend-Flask-000000) ![Gemini](https://img.shields.io/badge/AI-Google%20Gemini-8E75B2) ![Firebase](https://img.shields.io/badge/Database-Firebase-FFCA28)
+# RespiGuard: AI-Powered Respiratory Health Assistant
+
+<img alt="Wlogo" src="https://github.com/user-attachments/assets/58614a69-d500-4090-a860-d2e4f2430296" height="120"/>
+
+<br><br>
+
+![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB)
+![Glassmorphism](https://img.shields.io/badge/UI-Glassmorphism-7C3AED)
+![Flask](https://img.shields.io/badge/Backend-Flask-000000)
+![Gemini](https://img.shields.io/badge/AI-Google%20Gemini-8E75B2)
+![Gemini%20Embeddings](https://img.shields.io/badge/Embeddings-Gemini-4285F4)
+![Pinecone](https://img.shields.io/badge/Vector%20DB-Pinecone-0DBD8B)
+![Firebase](https://img.shields.io/badge/Database-Firebase-FFCA28)
+</div>
 
 `created & enhanced during Hack Zenith 2026`
 
-> **“Others measure the air; we measure its impact on you.”** > A personalized medical digital twin that combines real-time hyper-local air quality data with AI-driven clinical guidance to protect respiratory patients. 
- 
+> **“Others measure the air; we measure its impact on you.”**
+>
+> A personalized medical digital twin that combines real-time hyper-local air quality data with AI-driven clinical guidance to protect respiratory patients.
+
 ---
 
 ## 🚩 The Problem
